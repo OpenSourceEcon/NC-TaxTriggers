@@ -1,0 +1,13 @@
+Situation,Before tax income,Baseline after tax income,Baseline North Carolina net tax liability,Reform after tax income,Reform North Carolina net tax liability,"North Carolina net tax liability change, dollars","North Carolina net tax liability change, percent"
+"Single, no kids, low income",13260.0,14483.197,26.799,14481.922,28.074,1.2749996,0.047576386
+"Single, no kids, middle income",40800.0,34130.355,1006.94495,34060.23,1077.07,70.125,0.069641344
+"Single, no kids, high income",91800.0,71037.49,2820.81,70839.87,3018.435,197.625,0.070059665
+"Married filing jointly, no kids, low income",25500.0,25067.197,17.0,25067.197,17.0,0.0,0.0
+"Married filing jointly, no kids, middle income",71400.0,60434.797,1650.1049,60320.047,1764.855,114.75012,0.06954111
+"Married filing jointly, no kids, high income",163200.0,128460.31,4915.89,128116.06,5260.14,344.25,0.07002801
+"Head of household, 2 kids, low income",20400.0,38208.348,14.0,38208.348,14.0,0.0,0.0
+"Head of household, 2 kids, middle income",61200.0,56536.17,1405.0275,56438.484,1502.7151,97.68762,0.069527194
+"Head of household, 2 kids, high income",153000.0,120643.984,4775.512,120309.3,5110.1997,334.6875,0.0700841
+"Married, 2 kids, low income",25500.0,44807.477,17.0,44807.477,17.0,0.0,0.0
+"Married, 2 kids, middle income",76500.0,69876.21,1691.9374,69758.71,1809.4375,117.50012,0.069447085
+"Married, 2 kids, high income",204000.0,160954.25,6367.35,160508.0,6813.6,446.25,0.0700841
