@@ -28,6 +28,7 @@ dependencies = [
     "numpy",
     "scipy",
     "pandas",
+    "matplotlib",
     "bokeh",
     "bokeh_sampledata",
     "geopandas",
